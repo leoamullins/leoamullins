@@ -2,7 +2,7 @@
 
 Mathematics @ UCL 
 
-[LinkedIn](https://linkedin.com/in/leoamullins) • [Email](mailto:leo.mullins.24@ucl.ac.uk)
+:link: [LinkedIn](https://linkedin.com/in/leoamullins) • :email: [Email](mailto:leo.mullins.24@ucl.ac.uk)
 
 ---
 
