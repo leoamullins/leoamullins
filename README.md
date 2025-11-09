@@ -2,7 +2,8 @@
 
 Mathematics @ UCL 
 
-:link: [LinkedIn](https://linkedin.com/in/leoamullins) • :email: [Email](mailto:leo.mullins.24@ucl.ac.uk)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leoamullins)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leo.mullins.24@ucl.ac.uk)
 
 ---
 
