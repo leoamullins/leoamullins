@@ -1,9 +1,8 @@
 # Leo Mullins
 
-Mathematics @ UCL 
+Mathematics @ UCL | Quantitative Finance
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leoamullins)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leo.mullins.24@ucl.ac.uk)
+📧 leo.mullins.24@ucl.ac.uk • 💼 [LinkedIn](https://linkedin.com/in/leoamullins)
 
 ---
 
