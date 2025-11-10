@@ -1,6 +1,6 @@
 # Leo Mullins
 
-Mathematics @ UCL | Quantitative Finance
+Mathematics @ UCL
 
 📧 leo.mullins.24@ucl.ac.uk • 💼 [LinkedIn](https://linkedin.com/in/leoamullins)
 
